@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Shauany Kelly😁
+## Bem-vindo(a) ao perfil Shauany Kelly😁
 
  <div>
    <a href="https://github.com/Shauany-kelly">
