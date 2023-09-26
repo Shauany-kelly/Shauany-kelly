@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Dev em Dobro 😁
+## Bem-vindo(a) ao perfil do Shauany Kelly😁
 
  <div>
    <a href="https://github.com/Shauany-kelly">
@@ -14,7 +14,7 @@
  
 <br>
  
-### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+### Redes para contato
  
 <div> 
   <a href="(https://instagram.com/shauany.kelly?igshid=OGQ5ZDc2ODk2ZA==)" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
