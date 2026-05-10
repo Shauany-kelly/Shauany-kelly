@@ -4,20 +4,6 @@
 🚀 Atualmente focada em evoluir minhas habilidades em Front-End e desenvolvimento de sistemas.  
 📚 Estudando HTML, CSS, JavaScript e Python.
 
----
-
-## 📊 Estatísticas GitHub
-
-<div align="center">
-  <a href="https://github.com/Shauany-kelly">
-    ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Shauany-kelly&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shauany-kelly&layout=compact&theme=tokyonight)
-  </a>
-</div>
-
----
-
 ## 🚀 Tecnologias que utilizo
 
 <div style="display: inline_block"><br>
