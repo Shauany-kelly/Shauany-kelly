@@ -10,8 +10,9 @@
 
 <div align="center">
   <a href="https://github.com/Shauany-kelly">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shauany-kelly&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shauany-kelly&layout=compact&langs_count=6&theme=tokyonight"/>
+    ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Shauany-kelly&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shauany-kelly&layout=compact&theme=tokyonight)
   </a>
 </div>
 
