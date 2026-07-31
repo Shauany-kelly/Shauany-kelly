@@ -8,13 +8,13 @@
 
 ## 🚀 Tecnologias que utilizo
 
-| Linguagem / Tecnologia | Status de Aprendizado |
-| :--- | :--- |
-| 🌐 **HTML5** | Estruturação e semântica web |
-| 🎨 **CSS3** | Estilização, Flexbox, Grid e Responsividade |
-| 🟨 **JavaScript** | Lógica de programação e dinamismo |
-| 🐍 **Python** | Automação e ciência de dados |
-| 🔀 **Git & GitHub** | Controle de versão e repositórios |
+ Linguagem / Tecnologia  
+
+ 🌐 **HTML5** 
+ 🎨 **CSS3** 
+ 🟨 **JavaScript** 
+ 🐍 **Python** 
+ 🔀 **Git & GitHub** 
 
 ---
 
